@@ -1,0 +1,24 @@
+p{
+ font-size: 130%; 
+    font-family: Arial,Helvetica; 
+    color: blue;
+text-align:center;
+}
+ul {
+    font-family:  Arial; 
+    color: red;
+text-align:center;
+font-style:italic;
+}
+ul li{
+    font-family: Verdana ; 
+    color: black;
+text-align:center;
+margin-left:40%;
+margin-right:40%;
+}
+.user{
+font-family: Arial;
+text-align:center;
+color: blue;
+}
